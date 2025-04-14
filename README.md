@@ -1,3 +1,9 @@
+## You can watch the demo of the app in action here:
+
+[![Watch the video]]
+
+https://github.com/user-attachments/assets/43999284-a3ca-48c1-b642-7a67ea0909d6
+
 # 📰 Kites News App
 
 A Flutter application built with **MVVM architecture** using **Provider** for state management and **Dependency Injection (DI)**.
@@ -17,29 +23,29 @@ It supports dynamic language switching and theming with persistent local storage
 🌐 Generated i18n utils using `intl_utils`
 **Test cases (unit, widget)** included
 
-
-## 📁 Project Structure (MVVM)
-lib/ <br>
-├── core/                          # Core configuration: themes, localization, utils, and dependency injection <br>
-│   ├── style/                     # App-wide theme and styling <br>
-│   ├── translations/              # Generated and static localization files <br>
-│   ├── utils/                     # Utility classes and functions <br>
-│   └── di/                        # App-level dependency injection setup <br>
-│ <br>
-├── features/ <br>
-│   ├── news/ <br>
-│   │   ├── data/                  # Remote API calls and repository implementations <br>
-│   │   ├── domain/                # Models and abstract repository contracts <br>
-│   │   ├── presentation/          # UI layer with notifiers, pages, and widgets <br>
-│   │   └── news_injections.dart   # News feature-specific DI setup <br>
-│   │ <br>
-│   └── splash/                    # Splash screen logic and helper utilities <br>
-│ <br>
-├── shared/                        # Reusable shared components across the app <br>
-│   ├── widgets/                   # Commonly used UI components (buttons, cards, etc.) <br>
-│   ├── pages/                     # Shared pages like webview, photo viewer <br>
-│   └── helpers/                   # Utility functions or classes shared app-wide <br>
-
+<h2>:file_folder: Project Structure (MVVM)</h2>
+<pre>
+lib/
+├── core/                          # Core configuration: themes, localization, utils, and dependency injection
+│   ├── style/                     # App-wide theme and styling
+│   ├── translations/              # Generated and static localization files
+│   ├── utils/                     # Utility classes and functions
+│   └── di/                        # App-level dependency injection setup
+│
+├── features/
+│   ├── news/
+│   │   ├── data/                  # Remote API calls and repository implementations
+│   │   ├── domain/                # Models and abstract repository contracts
+│   │   ├── presentation/          # UI layer with notifiers, pages, and widgets
+│   │   └── news_injections.dart   # News feature-specific DI setup
+│   │
+│   └── splash/                    # Splash screen logic and helper utilities
+│
+├── shared/                        # Reusable shared components across the app
+│   ├── widgets/                   # Commonly used UI components (buttons, cards, etc.)
+│   ├── pages/                     # Shared pages like webview, photo viewer
+│   └── helpers/                   # Utility functions or classes shared app-wide
+</pre>
 
 ---
 
@@ -111,9 +117,3 @@ flutter pub get
     <img src="screenshots/localization/Screenshot_20250414-191113.jpg" width="150px"</img>
     <img src="screenshots/localization/Screenshot_20250414-191119.jpg" width="150px"</img>
 </div>
-
-## You can watch the demo of the app in action here:
-
-[![Watch the video]]
-
-https://github.com/user-attachments/assets/43999284-a3ca-48c1-b642-7a67ea0909d6
