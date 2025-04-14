@@ -1,3 +1,10 @@
+
+## You can watch the demo of the app in action here:
+
+[![Watch the video]]
+
+https://github.com/user-attachments/assets/43999284-a3ca-48c1-b642-7a67ea0909d6
+
 # 📰 Kites News App
 
 A Flutter application built with **MVVM architecture** using **Provider** for state management and **Dependency Injection (DI)**.
