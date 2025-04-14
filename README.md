@@ -88,17 +88,21 @@ flutter pub get
 
 ### ScreenShots for the Kite News App ### 
 # dark mode 
-![1000014460.jpg](<img src="screenshots/dark/1000014460.jpg" width="150px"</img>)
-![1000014462.jpg](<img src="screenshots/dark/1000014462.jpg" width="150px"</img>)
-![1000014464.jpg](<img src="screenshots/dark/1000014464.jpg" width="150px"</img>)
-![1000014466.jpg](<img src="screenshots/dark/1000014466.jpg" width="150px"</img>)
-![1000014468.jpg](<img src="screenshots/dark/1000014468.jpg" width="150px"</img>)
+<div align="center">
+   <img src="/screenshots/dark/1000014460.jpg" width="150px"</img> 
+   <img src="/screenshots/dark/1000014462.jpg" width="150px"</img> 
+   <img src="/screenshots/dark/1000014464.jpg" width="150px"</img> 
+   <img src="/screenshots/dark/1000014466.jpg" width="150px"</img> 
+  <img src="/screenshots/dark/1000014468.jpg" width="150px"</img> 
+</div>
 
 # light mode
-![1000014461.jpg](<img src="screenshots/light/1000014461.jpg" width="150px"</img>)
-![1000014463.jpg](<img src="screenshots/light/1000014463.jpg" width="150px"</img>)
-![1000014465.jpg](<img src="screenshots/light/1000014465.jpg" width="150px"</img>)
-![1000014467.jpg](<img src="screenshots/light/1000014467.jpg" width="150px"</img>)
+<div align="center">
+   <img src="/screenshots/light/1000014461.jpg" width="150px"</img> 
+   <img src="/screenshots/light/1000014463.jpg" width="150px"</img> 
+   <img src="/screenshots/light/1000014465.jpg" width="150px"</img> 
+   <img src="/screenshots/light/1000014467.jpg" width="150px"</img> 
+</div>
 
 # localization
 ![Screenshot_20250414-191105.jpg](<img src="screenshots/localization/Screenshot_20250414-191105.jpg" width="150px"</img>)
